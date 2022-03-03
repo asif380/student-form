@@ -1,0 +1,97 @@
+
+.main1 {
+    height: 120vh;
+    background: #102057;}
+.main {
+    margin-top: 0px;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+}
+.form {
+    width: 600px;
+    transform: translateX(-100px);
+    background: rgba(255,255,255,0.05);
+    padding: 40px;
+    margin: auto;
+    box-shadow: 5px 5px 30px rgb(0 0 0 / 20%);
+
+}
+.form h1{color: white;
+transform: translateX(170px);}
+#wd {
+    width: 600px;
+    text-align: center;
+    padding: 10px;
+    background: rgba(255,255,255,0.05);
+border: none;
+box-shadow: 5px 5px 30px rgb(0 0 0 / 20%);
+border-radius: 15px;
+font-size: 20px;
+}
+#maths {
+    width: 600px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    background: rgba(255,255,255,0.05);
+    border: none;
+    box-shadow: 5px 5px 30px rgb(0 0 0 / 20%);
+    border-radius: 15px;
+    font-size: 20px;
+}
+#comp {
+    width: 600px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    background: rgba(255,255,255,0.05);
+    border: none;
+    box-shadow: 5px 5px 30px rgb(0 0 0 / 20%);
+    border-radius: 15px;
+    font-size: 20px;
+}
+#phy {
+    width: 600px;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    background: rgba(255,255,255,0.05);
+    border: none;
+    box-shadow: 5px 5px 30px rgb(0 0 0 / 20%);
+    border-radius: 15px;
+    font-size: 20px;
+}
+.app-form-button {
+    font-size: 25px;
+    text-align: center;
+    transform: translateX(200px);
+    margin-top: 20px;
+    color: white;
+            background:  #102057;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    border-image: initial;
+    padding: 10px;
+    border-radius: 10px;
+}
+.showdata {
+    width: 300px;
+    margin: auto;
+}
+p#showdata {
+    color: red;
+    position: absolute;
+    top: 30%;
+    left: -65%;
+    width: 200px;
+    font-size: 20px;
+    background: blue;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    background:  #102057;
+    box-shadow: 5px 5px 30px rgb(0 0 0 / 30%);
+
+}
